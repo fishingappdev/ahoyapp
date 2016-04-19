@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FishingApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>MY PROFILE</item>
+        <item>MY FISH</item>
+        <item>MY FRIENDS</item>
+        <item>MY ALBUMS</item>
+        <item>MY FISHING LOG</item>
+        <item>MY EPISODE LIST</item>
+        <item>CHANGE PASSWORD</item>
+    </string-array>
+</resources>
